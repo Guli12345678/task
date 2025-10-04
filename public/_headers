@@ -1,0 +1,10 @@
+/* 
+  Content-Type override for JS modules
+  This forces Netlify to serve them with the correct MIME type
+*/
+
+/*.js
+  Content-Type: application/javascript
+
+/*.css
+  Content-Type: text/css
